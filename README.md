@@ -1,7 +1,7 @@
 <h1 align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&lines=Hello!+I'm+Carlos!+"/>
 </h1>
-<h3 align="center"> An Industrial Automation Engineer who decided to develop too. Venezuelan living in Argentina!</h3>
+<h3 align="center"> An Industrial Automation Engineer who decided to develop too. I'm living in Argentina!</h3>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carjes80&show_icons=true)
