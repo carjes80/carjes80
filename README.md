@@ -4,7 +4,7 @@
   <hr>
 </h1>
 <h2 align="right">
-<a href="https://linkedin.com/in/salcedocarlos" target="blank">
+<a href="https://linkedin.com/in/salcedocarlos" target="_blank">
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHgUrALpHBN5w/profile-displayphoto-shrink_800_800/0/1597757781096?e=1667433600&v=beta&t=PE00Zabc5xKZZVHU7XXojpcegCiY2pwdRM2TBjxGUDQ" alt="foto carlos" width="120" height="120"></a>
 </h2>
 <h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to be a junior developer too. I'm living in Argentina!</h3>
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salcedocarlos" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="Carlos-Salcedo" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/salcedocarlos" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="Carlos-Salcedo" height="40" width="40" /></a>
 </p>
 
 
