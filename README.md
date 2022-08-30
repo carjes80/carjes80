@@ -3,7 +3,7 @@
   <br/>
   <hr>
 </h1>
-<h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to develop too. I'm living in Argentina!</h3>
+<h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to be a junior developer too. I'm living in Argentina!</h3>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carjes80&show_icons=true)
