@@ -3,6 +3,7 @@
   <br/>
   <hr>
 </h1>
+<img src="https://photos.app.goo.gl/gzHjXkbCpaw8JDNp7" alt="foto carlos" width="300" height="300">
 <h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to be a junior developer too. I'm living in Argentina!</h3>
 <br/>
 
