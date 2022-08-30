@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?size=28&lines=Hello!+I'm+Carlos!+"/>
+  <img align="left" src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&lines=Hello!+I'm+Carlos+Jesús!+"/>
 </h1>
 <h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to develop too. I'm living in Argentina!</h3>
 <br/>
