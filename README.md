@@ -10,9 +10,9 @@
 <h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to be a junior developer too. I'm living in Argentina!</h3>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carjes80&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carjes80&theme=noctis_minimus&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carjes80&count_private=true&show_icons=true&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carjes80&theme=noctis_minimus&count_private=true&show_icons=true&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
