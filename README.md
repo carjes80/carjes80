@@ -6,7 +6,7 @@
 <h2 align="right">
 <a href="https://linkedin.com/in/salcedocarlos" target="_blank">
 
-<h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to be a junior developer as well. I'm living in Argentina!</h3>
+<h3 align="center"> An experienced Industrial Automation Engineer (10+ years) focused on helping companies to achieve their digital transformation and decided to be a junior developer as well, this way understand better the code behind every tech solution. I'm living in Argentina!</h3>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carjes80&theme=noctis_minimus&show_icons=true)
