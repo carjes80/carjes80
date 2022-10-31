@@ -5,7 +5,7 @@
 </h1>
 <h2 align="right">
 <a href="https://linkedin.com/in/salcedocarlos" target="_blank">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHgUrALpHBN5w/profile-displayphoto-shrink_800_800/0/1597757781096?e=1667433600&v=beta&t=PE00Zabc5xKZZVHU7XXojpcegCiY2pwdRM2TBjxGUDQ" alt="foto carlos" width="120" height="120"></a>
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHgUrALpHBN5w/profile-displayphoto-shrink_800_800/0/1597757781096?e=1667433600&v=beta&t=PE00Zabc5xKZZVHU7XXojpcegCiY2pwdRM2TBjxGUDQ](https://media.licdn.com/dms/image/D4D03AQH1MQO3bcuzXQ/profile-displayphoto-shrink_800_800/0/1666795393916?e=1672876800&v=beta&t=IdCLUedOsfMwL34nohre-FpcPSFn1I2AMDvzEtosNCY" alt="foto carlos" width="120" height="120"></a>
 </h2>
 <h3 align="center"> An experienced Industrial Automation Engineer (10+ years) who decided to be a junior developer as well. I'm living in Argentina!</h3>
 <br/>
